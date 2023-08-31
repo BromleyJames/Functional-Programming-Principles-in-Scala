@@ -1,2 +1,2 @@
-# Functional-Programming-Principles-in-Scala
-Functional Programming Principles in Scala - Coursera Course
+# Functional Programming Principles in Scala
+My code commits from the Coursera course titled Functional Programming Principles in Scala
